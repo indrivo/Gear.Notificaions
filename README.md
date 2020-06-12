@@ -1,1 +1,1 @@
-# Gear.Notificaions
+# Gear.Notifications
