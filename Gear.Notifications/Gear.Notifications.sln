@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gear.Notifications", "Gear.Notifications\Gear.Notifications.csproj", "{CD774582-CAD0-4339-B2BE-91191348311B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gear.Notifications.Abstractions", "Gear.Notifications.Abstractions\Gear.Notifications.Abstractions.csproj", "{640AF00C-2F3C-4CF5-8F95-53656ED0ACD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD774582-CAD0-4339-B2BE-91191348311B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD774582-CAD0-4339-B2BE-91191348311B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD774582-CAD0-4339-B2BE-91191348311B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD774582-CAD0-4339-B2BE-91191348311B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640AF00C-2F3C-4CF5-8F95-53656ED0ACD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640AF00C-2F3C-4CF5-8F95-53656ED0ACD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640AF00C-2F3C-4CF5-8F95-53656ED0ACD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640AF00C-2F3C-4CF5-8F95-53656ED0ACD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF72AEC2-8D30-4797-A0B4-EFD5271DC5CF}
+	EndGlobalSection
+EndGlobal
